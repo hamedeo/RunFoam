@@ -1,4 +1,4 @@
-# OpenFOAM RUN command for Linux Terminal
+# OpenFOAM RUN command for Linux terminal
 
 Organize, Simulate, Debug your OpenFOAM cases locally & remotely, solo & multi
 
